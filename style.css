@@ -1,12 +1,12 @@
 .container {
-    display: flex;
+    display: flexbox;
     flex-direction: column;
     justify-content: center;
     height: 100vh;
   }
   
   .calcContainer {
-    background-color: #B2BEB5;
+    background-color: #68706a;
     margin: 50px;
     width: 280px;
     height: 300px;
@@ -21,11 +21,11 @@
   
   button {
     margin: 5px;
-    width: 51px;
+    width: 50px;
   }
   
   .dblSizeBtn {
-    width: 117px;
+    width: 120px;
   }
   
   .buttonGrid {
